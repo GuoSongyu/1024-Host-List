@@ -1,7 +1,5 @@
 [
-    "cl.3987x.xyz",
     "cl.3987y.xyz",
-    "cl.3987z.xyz",
     "cl.1620x.xyz",
     "cl.1620y.xyz",
     "cl.1620z.xyz",
@@ -24,7 +22,6 @@
     "cl.1851z.xyz",
     "cl.3097x.xyz",
     "cl.3097y.xyz",
-    "cl.3097z.xyz",
     "cl.1531x.xyz",
     "cl.1531y.xyz",
     "cl.1531z.xyz",
@@ -62,7 +59,6 @@
     "cl.7679x.xyz",
     "cl.7679y.xyz",
     "cl.7679z.xyz",
-    "cl.9561x.xyz",
     "cl.9561y.xyz",
     "cl.9561z.xyz",
     "cl.8232x.xyz",
@@ -75,6 +71,8 @@
     "cl.1391y.xyz",
     "cl.1391z.xyz",
     "cl.9781x.xyz",
-    "cl.9781y.xyz",
-    "cl.9781z.xyz"
+    "cl.9781z.xyz",
+    "cl.9252x.xyz",
+    "cl.9252y.xyz",
+    "cl.9252z.xyz"
 ]
